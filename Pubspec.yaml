@@ -1,0 +1,13 @@
+name: cricket_live_app
+description: Cricket Live Streamer App
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  apivideo_live_stream: ^1.1.0
+
+flutter:
+  uses-material-design: true
